@@ -1,0 +1,7 @@
+Package: bpack
+Version: 1.0
+Maintainer: Tyler Pease <tyler@peasetek.dev>
+Depends: libc6
+Architecture: all
+Homepage: https://peasetek.dev/
+Description: A program that packs ASCII text from 8 bits down to 7.
